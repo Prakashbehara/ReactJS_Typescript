@@ -1,0 +1,32 @@
+{
+  "name": "nodetable",
+  "version": "1.0.0",
+  "description": "Table component in react js",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^7.0.8",
+    "@types/react": "^15.0.11",
+    "@types/react-bootstrap": "0.0.45",
+    "@types/react-dom": "^0.14.23",
+    "bootstrap": "3.3.7",
+    "csv-write-stream": "",
+    "react": "^15.4.2",
+    "react-bootstrap": "0.30.7",
+    "react-dom": "^15.4.2",
+    "rest" : ""
+  },
+  "devDependencies": {
+    "react-scripts": "0.8.5",
+    "awesome-typescript-loader": "^3.0.4",
+    "source-map-loader": "^0.1.6",
+    "typescript": "^2.1.6",
+    "webpack": "2.1.0-beta.22"
+  }
+}
